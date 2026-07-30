@@ -1,4 +1,6 @@
 # Cafe-Shop-Website
 
-![Coffe Shop Website] (Coffee%20Shop/website.png)
+# Cafe-Shop-Website
+
+![Coffee Shop Website](Coffee%20Shop/website.png)
 
